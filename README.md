@@ -10,7 +10,7 @@ INSTRUCTIONS:
 
 3- Ensure that the Pygame module is installed. This can be done using pip. 
    Documentation on how to use pip to download pygame is available here: 
-   https://cit.dixie.edu/cs/1410/pygame-installation.pdf
+   https://www.pygame.org/wiki/GettingStarted
 
 3- Run Floppybat.py by double clicking it (If python is set to open these
    files by default), by using the command line or terminal, or by using 
